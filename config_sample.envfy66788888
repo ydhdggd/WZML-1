@@ -42,7 +42,7 @@ WATCH_ENABLED = ""                                    # Default is False (only u
 CLONE_ENABLED = ""                                    # Default is False (only use by owner/sudo) Make it True (for authorized chats)
 ANILIST_ENABLED = ""                                  # Default is False (only use by owner/sudo) Make it True (for authorized chats)
 WAYBACK_ENABLED = ""                                  # Default is False (only use by owner/sudo) Make it True (for authorized chats)
-MEDIAINFO_ENABLED = ""                                # Default is False (only use by owner/sudo) Make it True (for authorized chats)
+MEDIAINFO_ENABLED = ""                                # Default is False (only use by owner/sudo) Make it True (for authorized chats
 SET_BOT_COMMANDS = "" 
 
 # UPDATE
